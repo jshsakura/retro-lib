@@ -1,0 +1,3 @@
+yarn react-start
+yarn electron-start
+yarn electron-pack
