@@ -1,8 +1,8 @@
-### 고전 게임 롬 파일을 정리하는 가장 편리한 방법을 찾아서..
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jshsakura/retro-lib/master/screenshots/banner.png"></img>
+  <img src="https://raw.githubusercontent.com/jshsakura/retro-lib/master/screenshots/banner.png" style="width:100%;"></img>
 </p>
+
+### 고전 게임 롬 파일을 정리하는 가장 편리한 방법을 찾아서..
 
 ## Retro Library Project
 
