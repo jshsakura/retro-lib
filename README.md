@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+### 고전 게임 롬 파일을 정리하는 가장 편리한 방법을 찾아서..
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://github.com/jshsakura/retro-lib/main/screenshots/banner.png"></img>
+</p>
+
+## Retro Library Project
+
+레트로 게임을 즐기는 사용자들을 위한 롬 파일 리스트 정리 프로그램을 개발하는 프로젝트입니다.
+이 프로그램은 고전 게임 롬 파일을 기종별로 정리하고, 사용자 프리셋을 적용할 수 있도록 지원하며, 스크래핑 기능을 포함합니다.
+
+## Stack used in the Development
+
+- React.js
+- Electron
+- PostgreSQL 또는 SQLite
+- Python
+
+## Features
+
+- 준비 중입니다.
+
+이 프로젝트의 주요 목적은 원본 파일명의 의미 있는 이름 변경과 롬 파일 리스트의 한글 목록 정리입니다.
+
+## Credits
+
+- 준비 중입니다.
+
+<br/>
 
 ## Available Scripts
 
