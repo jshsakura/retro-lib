@@ -13,8 +13,9 @@
 
 - React.js
 - Electron
-- PostgreSQL 또는 SQLite
 - Python
+- [PostgreSQL](https://dbdiagram.io/d/64f946fe02bd1c4a5e1e191d)
+- [Notion](https://www.notion.so/jshsakura/2a0aa3ffd46942e3814b60f66fe26408?pvs=4)
 
 ## Features
 
