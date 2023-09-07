@@ -4,12 +4,12 @@
 
 ### 고전 게임 롬 파일을 정리하는 가장 편리한 방법을 찾아서..
 
-## Retro Library Project
+## 🎮 Retro Library Project
 
 레트로 게임을 즐기는 사용자들을 위한 롬 파일 리스트 정리 프로그램을 개발하는 프로젝트입니다.
 이 프로그램은 고전 게임 롬 파일을 기종별로 정리하고, 사용자 프리셋을 적용할 수 있도록 지원하며, 스크래핑 기능을 포함합니다.
 
-## Stack used in the Development
+## 🦄 Stack used in the Development
 
 - React.js
 - Electron
@@ -17,13 +17,13 @@
 - [PostgreSQL](https://dbdiagram.io/d/64f946fe02bd1c4a5e1e191d)
 - [Notion](https://www.notion.so/jshsakura/2a0aa3ffd46942e3814b60f66fe26408?pvs=4)
 
-## Features
+## 💻 Features
 
 - 준비 중입니다.
 
 이 프로젝트의 주요 목적은 원본 파일명의 의미 있는 이름 변경과 롬 파일 리스트의 한글 목록 정리입니다.
 
-## Credits
+## 🌈 Credits
 
 - 준비 중입니다.
 
